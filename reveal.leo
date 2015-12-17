@@ -10,7 +10,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
+<v t="amd.20150913232631.1"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -19,14 +19,14 @@
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 </v>
-<v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
+<v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh>
 <v t="amd.20151021120245.1"><vh>@button admin pelican</vh></v>
 <v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
-<v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
+<v t="amd.20150920000911.1"><vh>@edit 2015cphww2.md</vh></v>
 </v>
 </v>
 </v>
@@ -390,18 +390,6 @@
 <v t="amd.20151021113722.1"><vh>@path plugin</vh>
 <v t="amd.20151021113731.1" a="E"><vh>@path liquid_tags</vh>
 <v t="amd.20151021113745.1"><vh>@edit notebook.py</vh></v>
-</v>
-</v>
-<v t="amd.20151021114454.1" a="E"><vh>@path user</vh>
-<v t="amd.20151021114529.1"><vh>各組員必須自行建立 以下節點</vh></v>
-<v t="amd.20151021114504.1" a="E"><vh>@path 9999</vh>
-<v t="amd.20151021114639.1"><vh>@edit 9999_cp_w1_p.html</vh></v>
-<v t="amd.20151021114516.1" a="E"><vh>@path pelican</vh>
-<v t="amd.20151021114727.1"><vh>@edit publishconf.py</vh></v>
-<v t="amd.20151021114712.1" a="E"><vh>@path content</vh>
-<v t="amd.20151021114905.1"><vh>@edit 9999_cp_w1.md</vh></v>
-</v>
-</v>
 </v>
 </v>
 </vnodes>
@@ -1740,11 +1728,6 @@ jupyter notebook
 </t>
 <t tx="amd.20151021113722.1"></t>
 <t tx="amd.20151021113731.1"></t>
-<t tx="amd.20151021114454.1"></t>
-<t tx="amd.20151021114504.1"></t>
-<t tx="amd.20151021114516.1"></t>
-<t tx="amd.20151021114529.1"></t>
-<t tx="amd.20151021114712.1"></t>
 <t tx="amd.20151021120245.1">@language python
 import os
 os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-octopress")
