@@ -22,16 +22,23 @@
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh>
 <v t="amd.20151021120245.1"><vh>@button admin pelican</vh></v>
 <v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
-<v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
+<v t="amd.20150919114010.1"><vh>@path pelican</vh>
 <v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cphww2.md</vh></v>
+<v t="LEO.20151217151023.1"><vh>@edit 2015cphww3.md</vh></v>
+<v t="LEO.20151217151053.1"><vh>@edit 2015cphww4.md</vh></v>
+<v t="LEO.20151217151059.1"><vh>@edit 2015cphww5.md</vh></v>
+<v t="LEO.20151217151106.1"><vh>@edit 2015cphww6.md</vh></v>
+<v t="LEO.20151217151118.1"><vh>@edit 2015cphww7.md</vh></v>
+<v t="LEO.20151217151033.1"><vh>@edit 2015cphww8.md</vh></v>
+<v t="LEO.20151217145952.1"><vh>@edit W_11零件圖</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh>
-<v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
+<v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
+<v t="amd.20150915155634.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915155634.3" a="E"><vh>head</vh>
 <v t="amd.20150915155634.4"><vh>title - 標題</vh></v>
