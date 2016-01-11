@@ -21,9 +21,9 @@
 </v>
 <v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
+<v t="amd.20150919114010.1"><vh>@path pelican</vh>
 <v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
-<v t="amd.20151006113136.1"><vh>@path content</vh>
+<v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
 <v t="leo.20151017210656.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20151017213903.1"><vh>@edit 2015cphww5.md</vh></v>
@@ -45,7 +45,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
+<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh>
 <v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
 <v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915155634.3" a="E"><vh>head</vh>
@@ -449,7 +449,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151125205923.1" a="E"><vh>@clean simplest10.html</vh>
+<v t="leo.20151125205923.1"><vh>@clean simplest10.html</vh>
 <v t="leo.20151125205923.2"><vh>檔案說明</vh></v>
 <v t="leo.20151125205923.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151125205923.4" a="E"><vh>body 標註</vh>
@@ -465,7 +465,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151125205931.1" a="E"><vh>@clean simplest11.html</vh>
+<v t="leo.20151125205931.1"><vh>@clean simplest11.html</vh>
 <v t="leo.20151125205931.2"><vh>檔案說明</vh></v>
 <v t="leo.20151125205931.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151125205931.4" a="E"><vh>body 標註</vh>
@@ -481,7 +481,7 @@
 </v>
 </v>
 </v>
-<v t="123.20160109164802.1" a="E"><vh>@clean simplest12.html</vh>
+<v t="123.20160109164802.1"><vh>@clean simplest12.html</vh>
 <v t="123.20160109164802.2"><vh>檔案說明</vh></v>
 <v t="123.20160109164802.3" a="E"><vh>html 標註</vh>
 <v t="123.20160109164802.4" a="E"><vh>body 標註</vh>
@@ -497,7 +497,7 @@
 </v>
 </v>
 </v>
-<v t="123.20160109164708.1" a="E"><vh>@clean simplest13.html</vh>
+<v t="123.20160109164708.1"><vh>@clean simplest13.html</vh>
 <v t="123.20160109164708.2"><vh>檔案說明</vh></v>
 <v t="123.20160109164708.3" a="E"><vh>html 標註</vh>
 <v t="123.20160109164708.4" a="E"><vh>body 標註</vh>
@@ -513,7 +513,7 @@
 </v>
 </v>
 </v>
-<v t="123.20160109171551.1" a="E"><vh>@clean simplest14.html</vh>
+<v t="123.20160109171551.1"><vh>@clean simplest14.html</vh>
 <v t="123.20160109171551.2"><vh>檔案說明</vh></v>
 <v t="123.20160109171551.3" a="E"><vh>html 標註</vh>
 <v t="123.20160109171551.4" a="E"><vh>body 標註</vh>
@@ -545,7 +545,7 @@
 </v>
 </v>
 </v>
-<v t="123.20160109172331.1" a="E"><vh>@clean simplest16.html</vh>
+<v t="123.20160109172331.1"><vh>@clean simplest16.html</vh>
 <v t="123.20160109172331.2"><vh>檔案說明</vh></v>
 <v t="123.20160109172331.3" a="E"><vh>html 標註</vh>
 <v t="123.20160109172331.4" a="E"><vh>body 標註</vh>
@@ -904,7 +904,7 @@
           
 &lt;/section&gt;</t>
 <t tx="123.20160109171551.9">&lt;section&gt;
-        &lt;h2&gt;第十四周心得&lt;/h2&gt;
+        &lt;h2&gt;第十五周心得&lt;/h2&gt;
         &lt;p&gt;老師介紹onshape這網頁相當厲害,能在網路上繪圖,編劃開經過網路邊儲存,而他相當簡單,很容易上手,我們也用了之前CERO畫的那個零件當練習&lt;/p&gt;
         
     &lt;/section&gt;
@@ -1062,8 +1062,8 @@
 	
 </t>
 <t tx="123.20160109172331.8">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;作業任務十五&lt;/h2&gt;
-    &lt;p&gt;筆記(第十五周)&lt;/p&gt;
+    &lt;h2&gt;作業任務十七&lt;/h2&gt;
+    &lt;p&gt;筆記(第十七周)&lt;/p&gt;
     &lt;p&gt;1.onshape組合 2.點名 3.打自評
 &lt;/p&gt;
           
