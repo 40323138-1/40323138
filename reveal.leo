@@ -24,8 +24,9 @@
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
-<v t="leo.20151017210656.1"><vh>@edit 2015cphww2.md</vh></v>
-<v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="123.20160114232335.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="123.20160114232342.1"><vh>@edit 2015cphww2.md</vh></v>
+<v t="123.20160114232350.1"><vh>@edit 2015cphww3.md</vh></v>
 <v t="leo.20151017213903.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="leo.20151022193547.1"><vh>@edit 2015cphww6.md</vh></v>
 <v t="leo.20151029132849.1"><vh>@edit 2015cphww7.md</vh></v>
@@ -39,7 +40,6 @@
 <v t="123.20160109171533.1"><vh>@edit 2015cphww15.md</vh></v>
 <v t="123.20160109172211.1"><vh>@edit 2015cphww16.md</vh></v>
 <v t="123.20160109172250.1"><vh>@edit 2015cphww17.md</vh></v>
-<v t="leo.20151017212144.1"><vh>@edit 2015cphww3.md</vh></v>
 <v t="leo.20151017213255.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
@@ -481,7 +481,7 @@
 </v>
 </v>
 </v>
-<v t="123.20160109164802.1"><vh>@clean simplest12.html</vh>
+<v t="123.20160109164802.1" a="E"><vh>@clean simplest12.html</vh>
 <v t="123.20160109164802.2"><vh>檔案說明</vh></v>
 <v t="123.20160109164802.3" a="E"><vh>html 標註</vh>
 <v t="123.20160109164802.4" a="E"><vh>body 標註</vh>
@@ -535,8 +535,8 @@
 <v t="123.20160109172329.4" a="E"><vh>body 標註</vh>
 <v t="123.20160109172329.5" a="E"><vh>div class="reveal"</vh>
 <v t="123.20160109172329.6" a="E"><vh>div class="slides"</vh>
-<v t="123.20160109172329.7"><vh>介紹</vh></v>
 <v t="123.20160109172329.8"><vh>第十六周</vh></v>
+<v t="123.20160109172329.7"><vh>介紹</vh></v>
 <v t="123.20160109172329.9"><vh>第十六周心得</vh></v>
 <v t="123.20160109172329.10"><vh>評分</vh></v>
 </v>
@@ -545,7 +545,7 @@
 </v>
 </v>
 </v>
-<v t="123.20160109172331.1" a="E"><vh>@clean simplest16.html</vh>
+<v t="123.20160109172331.1"><vh>@clean simplest16.html</vh>
 <v t="123.20160109172331.2"><vh>檔案說明</vh></v>
 <v t="123.20160109172331.3" a="E"><vh>html 標註</vh>
 <v t="123.20160109172331.4" a="E"><vh>body 標註</vh>
@@ -917,7 +917,7 @@
 </t>
 <t tx="123.20160109172329.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第十五周:75&lt;/p&gt;
+    &lt;p&gt;1.第十六周:75&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="123.20160109172329.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -999,7 +999,7 @@
 </t>
 <t tx="123.20160109172331.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第十五周:80&lt;/p&gt;
+    &lt;p&gt;1.第十七周:80&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="123.20160109172331.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -1069,7 +1069,7 @@
           
 &lt;/section&gt;</t>
 <t tx="123.20160109172331.9">&lt;section&gt;
-        &lt;h2&gt;第十四周心得&lt;/h2&gt;
+        &lt;h2&gt;第十七周心得&lt;/h2&gt;
         &lt;p&gt;其中將近開始要我們打自評,根據上次經驗,我自評打了70分,但其中分數公佈後老師只給我50分,我個人倉儲連結失敗了!!都有做都就差這一步,相信這次把連結做成公,能拿到應該有的分數,給自己一個交代,而我這次打了75希望能達成這分數&lt;/p&gt;
         
     &lt;/section&gt;
